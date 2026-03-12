@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**MahanInGit/MahanInGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Science graduate from Tilburg University with a strong interest in **Data Engineering**.  
+I enjoy building data pipelines, transforming raw data into reliable datasets, and creating systems that support analytics and decision making.
 
-Here are some ideas to get you started:
+Most of my current projects focus on **data engineering with cloud tools**, while my academic background includes **computer vision and machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tools I Work With
+
+Python • SQL • BigQuery • dbt • Airflow • Spark • Looker • GCP
+
+---
+
+## 📫 Connect
+
+LinkedIn  
+www.linkedin.com/in/mahan-abasian
